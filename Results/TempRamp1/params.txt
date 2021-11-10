@@ -1,0 +1,8 @@
+Ti 20.0
+Tf 37.0
+C_i 100.0
+C_f 100.0
+T slope 0.002
+C slope 0
+temp ramp time 10110.0
+drug ramp time 0
